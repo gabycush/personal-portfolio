@@ -13,6 +13,9 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "nodemon": "^2.0.19"
+    "nodemon": "^2.0.19",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.6.6"
   }
 }
